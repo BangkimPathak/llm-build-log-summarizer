@@ -1,0 +1,110 @@
+[INFO] Scanning for projects...
+[INFO] Building enterprise-auth-service 1.4.0-SNAPSHOT
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1.0/commons-lang3-3.1.0.jar (504 kB at 2.4 MB/s)
+Progress (1/45): 2.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.0/commons-lang3-3.2.0.jar (504 kB at 2.4 MB/s)
+Progress (2/45): 4.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.0/commons-lang3-3.3.0.jar (504 kB at 2.4 MB/s)
+Progress (3/45): 6.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.4.0/commons-lang3-3.4.0.jar (504 kB at 2.4 MB/s)
+Progress (4/45): 8.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.5.0/commons-lang3-3.5.0.jar (504 kB at 2.4 MB/s)
+Progress (5/45): 11.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.6.0/commons-lang3-3.6.0.jar (504 kB at 2.4 MB/s)
+Progress (6/45): 13.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7.0/commons-lang3-3.7.0.jar (504 kB at 2.4 MB/s)
+Progress (7/45): 15.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.0/commons-lang3-3.8.0.jar (504 kB at 2.4 MB/s)
+Progress (8/45): 17.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.9.0/commons-lang3-3.9.0.jar (504 kB at 2.4 MB/s)
+Progress (9/45): 19.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10.0/commons-lang3-3.10.0.jar (504 kB at 2.4 MB/s)
+Progress (10/45): 22.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11.0/commons-lang3-3.11.0.jar (504 kB at 2.4 MB/s)
+Progress (11/45): 24.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar (504 kB at 2.4 MB/s)
+Progress (12/45): 26.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.jar (504 kB at 2.4 MB/s)
+Progress (13/45): 28.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar (504 kB at 2.4 MB/s)
+Progress (14/45): 30.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.15.0/commons-lang3-3.15.0.jar (504 kB at 2.4 MB/s)
+Progress (15/45): 33.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.16.0/commons-lang3-3.16.0.jar (504 kB at 2.4 MB/s)
+Progress (16/45): 35.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar (504 kB at 2.4 MB/s)
+Progress (17/45): 37.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar (504 kB at 2.4 MB/s)
+Progress (18/45): 39.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.19.0/commons-lang3-3.19.0.jar (504 kB at 2.4 MB/s)
+Progress (19/45): 41.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.20.0/commons-lang3-3.20.0.jar (504 kB at 2.4 MB/s)
+Progress (20/45): 44.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.21.0/commons-lang3-3.21.0.jar (504 kB at 2.4 MB/s)
+Progress (21/45): 46.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.22.0/commons-lang3-3.22.0.jar (504 kB at 2.4 MB/s)
+Progress (22/45): 48.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.23.0/commons-lang3-3.23.0.jar (504 kB at 2.4 MB/s)
+Progress (23/45): 50.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.24.0/commons-lang3-3.24.0.jar (504 kB at 2.4 MB/s)
+Progress (24/45): 52.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.25.0/commons-lang3-3.25.0.jar (504 kB at 2.4 MB/s)
+Progress (25/45): 55.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.26.0/commons-lang3-3.26.0.jar (504 kB at 2.4 MB/s)
+Progress (26/45): 57.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.27.0/commons-lang3-3.27.0.jar (504 kB at 2.4 MB/s)
+Progress (27/45): 59.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.28.0/commons-lang3-3.28.0.jar (504 kB at 2.4 MB/s)
+Progress (28/45): 61.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.29.0/commons-lang3-3.29.0.jar (504 kB at 2.4 MB/s)
+Progress (29/45): 63.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.30.0/commons-lang3-3.30.0.jar (504 kB at 2.4 MB/s)
+Progress (30/45): 66.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.31.0/commons-lang3-3.31.0.jar (504 kB at 2.4 MB/s)
+Progress (31/45): 68.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.32.0/commons-lang3-3.32.0.jar (504 kB at 2.4 MB/s)
+Progress (32/45): 70.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.33.0/commons-lang3-3.33.0.jar (504 kB at 2.4 MB/s)
+Progress (33/45): 72.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.34.0/commons-lang3-3.34.0.jar (504 kB at 2.4 MB/s)
+Progress (34/45): 74.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.35.0/commons-lang3-3.35.0.jar (504 kB at 2.4 MB/s)
+Progress (35/45): 77.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.36.0/commons-lang3-3.36.0.jar (504 kB at 2.4 MB/s)
+Progress (36/45): 79.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.37.0/commons-lang3-3.37.0.jar (504 kB at 2.4 MB/s)
+Progress (37/45): 81.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.38.0/commons-lang3-3.38.0.jar (504 kB at 2.4 MB/s)
+Progress (38/45): 83.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.39.0/commons-lang3-3.39.0.jar (504 kB at 2.4 MB/s)
+Progress (39/45): 85.8%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.40.0/commons-lang3-3.40.0.jar (504 kB at 2.4 MB/s)
+Progress (40/45): 88.0%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.41.0/commons-lang3-3.41.0.jar (504 kB at 2.4 MB/s)
+Progress (41/45): 90.2%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.42.0/commons-lang3-3.42.0.jar (504 kB at 2.4 MB/s)
+Progress (42/45): 92.4%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.43.0/commons-lang3-3.43.0.jar (504 kB at 2.4 MB/s)
+Progress (43/45): 94.6%
+[INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.44.0/commons-lang3-3.44.0.jar (504 kB at 2.4 MB/s)
+Progress (44/45): 96.8%
+[INFO] --- maven-compiler-plugin:3.11.0:compile (default-compile) @ auth-service ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 42 source files to /app/target/classes
+[ERROR] /app/src/main/java/com/jain/auth/TokenValidator.java:[28,32] cannot find symbol
+[ERROR]   symbol:   class JWTVerifier
+[ERROR]   location: package com.auth0.jwt
+[ERROR] /app/src/main/java/com/jain/auth/TokenValidator.java:[34,19] cannot find symbol
+[ERROR]   symbol:   class DecodedJWT
+[ERROR]   location: package com.auth0.jwt.interfaces
+[INFO] 2 errors
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project enterprise-auth-service: Compilation failure: Compilation failure
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  28.452 s
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile: Execution default-compile of goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile failed: Missing dependency 'com.auth0:java-jwt:4.4.0' in pom.xml -> [Help 1]
+##[error]Process completed with exit code 1.

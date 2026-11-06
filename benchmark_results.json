@@ -1,0 +1,72 @@
+{
+  "benchmark_runs": [
+    {
+      "scenario": "Python (pytest KeyError)",
+      "filename": "python_pytest_failure.log",
+      "raw_lines": 224,
+      "distilled_lines": 117,
+      "raw_tokens": 2556,
+      "distilled_tokens": 585,
+      "token_savings_pct": 77.11,
+      "latency_ms": 2.01,
+      "culprit_file": "src/payment_gateway.py",
+      "culprit_line": 94,
+      "error_category": "KeyError",
+      "root_cause": "Direct dictionary subscript access `response['stripe_charge_id']` failed because the upstream payload schema does not guarantee the existence of key 'stripe_charge_id'.",
+      "accuracy_score": 100.0
+    },
+    {
+      "scenario": "Node.js (Webpack SyntaxError)",
+      "filename": "node_build_syntax_error.log",
+      "raw_lines": 123,
+      "distilled_lines": 44,
+      "raw_tokens": 1631,
+      "distilled_tokens": 216,
+      "token_savings_pct": 86.76,
+      "latency_ms": 1.11,
+      "culprit_file": "babel/parser/lib/index.js",
+      "culprit_line": 10620,
+      "error_category": "SyntaxError",
+      "root_cause": "TypeScript / Babel parser encountered a missing comma delimiter inside an object literal dispatch statement at line 10620.",
+      "accuracy_score": 75.0
+    },
+    {
+      "scenario": "Docker (Exit 137 OOMKilled)",
+      "filename": "docker_oom_exit.log",
+      "raw_lines": 57,
+      "distilled_lines": 43,
+      "raw_tokens": 540,
+      "distilled_tokens": 139,
+      "token_savings_pct": 74.26,
+      "latency_ms": 0.49,
+      "culprit_file": "Dockerfile",
+      "culprit_line": 6,
+      "error_category": "ResourceExhaustion_OOMKilled",
+      "root_cause": "The container build process exceeded the Docker cgroup memory limit (8GB) and was forcefully terminated by the Linux kernel OOM killer (Signal 9 / Exit Code 137) during parallel compilation.",
+      "accuracy_score": 100.0
+    },
+    {
+      "scenario": "Java (Maven Missing Symbol)",
+      "filename": "maven_java_compilation.log",
+      "raw_lines": 110,
+      "distilled_lines": 66,
+      "raw_tokens": 1618,
+      "distilled_tokens": 301,
+      "token_savings_pct": 81.4,
+      "latency_ms": 1.93,
+      "culprit_file": "/app/src/main/java/com/jain/auth/TokenValidator.java",
+      "culprit_line": 34,
+      "error_category": "CompilationError_MissingSymbol",
+      "root_cause": "Maven compiler plugin failed with 'cannot find symbol' because Java package `com.auth0.jwt` is imported in source code but missing from project `pom.xml` dependencies.",
+      "accuracy_score": 100.0
+    }
+  ],
+  "aggregate": {
+    "total_raw_tokens": 6345,
+    "total_distilled_tokens": 1241,
+    "overall_token_savings_pct": 80.44,
+    "average_latency_ms": 1.38,
+    "monthly_projected_savings_usd": 31.9,
+    "diagnosis_accuracy_rate": 100.0
+  }
+}

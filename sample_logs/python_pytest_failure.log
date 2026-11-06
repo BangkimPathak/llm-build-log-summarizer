@@ -1,0 +1,224 @@
+[34m[INFO] 2026-11-06T10:00:01.102Z Initiating CI build on runner-ubuntu-22.04[0m
+[INFO] Checking out commit 4c89a7f (branch: main)
+[INFO] Setting up Python 3.11.5 environment...
+[32m[pip][0m Downloading dependency pkg-1-1.1.0-py3-none-any.whl (120 kB)
+  [33m[=========================>            ][0m 2% eta 00:049
+Installing collected packages: pkg-1 (version 1.1.0)
+[32m[pip][0m Downloading dependency pkg-2-1.2.0-py3-none-any.whl (240 kB)
+  [33m[=========================>            ][0m 4% eta 00:048
+Installing collected packages: pkg-2 (version 1.2.0)
+[32m[pip][0m Downloading dependency pkg-3-1.3.0-py3-none-any.whl (360 kB)
+  [33m[=========================>            ][0m 6% eta 00:047
+Installing collected packages: pkg-3 (version 1.3.0)
+[32m[pip][0m Downloading dependency pkg-4-1.4.0-py3-none-any.whl (480 kB)
+  [33m[=========================>            ][0m 8% eta 00:046
+Installing collected packages: pkg-4 (version 1.4.0)
+[32m[pip][0m Downloading dependency pkg-5-1.5.0-py3-none-any.whl (600 kB)
+  [33m[=========================>            ][0m 10% eta 00:045
+Installing collected packages: pkg-5 (version 1.5.0)
+[32m[pip][0m Downloading dependency pkg-6-1.6.0-py3-none-any.whl (720 kB)
+  [33m[=========================>            ][0m 12% eta 00:044
+Installing collected packages: pkg-6 (version 1.6.0)
+[32m[pip][0m Downloading dependency pkg-7-1.7.0-py3-none-any.whl (840 kB)
+  [33m[=========================>            ][0m 14% eta 00:043
+Installing collected packages: pkg-7 (version 1.7.0)
+[32m[pip][0m Downloading dependency pkg-8-1.8.0-py3-none-any.whl (960 kB)
+  [33m[=========================>            ][0m 16% eta 00:042
+Installing collected packages: pkg-8 (version 1.8.0)
+[32m[pip][0m Downloading dependency pkg-9-1.9.0-py3-none-any.whl (1080 kB)
+  [33m[=========================>            ][0m 18% eta 00:041
+Installing collected packages: pkg-9 (version 1.9.0)
+[32m[pip][0m Downloading dependency pkg-10-1.10.0-py3-none-any.whl (1200 kB)
+  [33m[=========================>            ][0m 20% eta 00:040
+Installing collected packages: pkg-10 (version 1.10.0)
+[32m[pip][0m Downloading dependency pkg-11-1.11.0-py3-none-any.whl (1320 kB)
+  [33m[=========================>            ][0m 22% eta 00:039
+Installing collected packages: pkg-11 (version 1.11.0)
+[32m[pip][0m Downloading dependency pkg-12-1.12.0-py3-none-any.whl (1440 kB)
+  [33m[=========================>            ][0m 24% eta 00:038
+Installing collected packages: pkg-12 (version 1.12.0)
+[32m[pip][0m Downloading dependency pkg-13-1.13.0-py3-none-any.whl (1560 kB)
+  [33m[=========================>            ][0m 26% eta 00:037
+Installing collected packages: pkg-13 (version 1.13.0)
+[32m[pip][0m Downloading dependency pkg-14-1.14.0-py3-none-any.whl (1680 kB)
+  [33m[=========================>            ][0m 28% eta 00:036
+Installing collected packages: pkg-14 (version 1.14.0)
+[32m[pip][0m Downloading dependency pkg-15-1.15.0-py3-none-any.whl (1800 kB)
+  [33m[=========================>            ][0m 30% eta 00:035
+Installing collected packages: pkg-15 (version 1.15.0)
+[32m[pip][0m Downloading dependency pkg-16-1.16.0-py3-none-any.whl (1920 kB)
+  [33m[=========================>            ][0m 32% eta 00:034
+Installing collected packages: pkg-16 (version 1.16.0)
+[32m[pip][0m Downloading dependency pkg-17-1.17.0-py3-none-any.whl (2040 kB)
+  [33m[=========================>            ][0m 34% eta 00:033
+Installing collected packages: pkg-17 (version 1.17.0)
+[32m[pip][0m Downloading dependency pkg-18-1.18.0-py3-none-any.whl (2160 kB)
+  [33m[=========================>            ][0m 36% eta 00:032
+Installing collected packages: pkg-18 (version 1.18.0)
+[32m[pip][0m Downloading dependency pkg-19-1.19.0-py3-none-any.whl (2280 kB)
+  [33m[=========================>            ][0m 38% eta 00:031
+Installing collected packages: pkg-19 (version 1.19.0)
+[32m[pip][0m Downloading dependency pkg-20-1.20.0-py3-none-any.whl (2400 kB)
+  [33m[=========================>            ][0m 40% eta 00:030
+Installing collected packages: pkg-20 (version 1.20.0)
+[32m[pip][0m Downloading dependency pkg-21-1.21.0-py3-none-any.whl (2520 kB)
+  [33m[=========================>            ][0m 42% eta 00:029
+Installing collected packages: pkg-21 (version 1.21.0)
+[32m[pip][0m Downloading dependency pkg-22-1.22.0-py3-none-any.whl (2640 kB)
+  [33m[=========================>            ][0m 44% eta 00:028
+Installing collected packages: pkg-22 (version 1.22.0)
+[32m[pip][0m Downloading dependency pkg-23-1.23.0-py3-none-any.whl (2760 kB)
+  [33m[=========================>            ][0m 46% eta 00:027
+Installing collected packages: pkg-23 (version 1.23.0)
+[32m[pip][0m Downloading dependency pkg-24-1.24.0-py3-none-any.whl (2880 kB)
+  [33m[=========================>            ][0m 48% eta 00:026
+Installing collected packages: pkg-24 (version 1.24.0)
+[32m[pip][0m Downloading dependency pkg-25-1.25.0-py3-none-any.whl (3000 kB)
+  [33m[=========================>            ][0m 50% eta 00:025
+Installing collected packages: pkg-25 (version 1.25.0)
+[32m[pip][0m Downloading dependency pkg-26-1.26.0-py3-none-any.whl (3120 kB)
+  [33m[=========================>            ][0m 52% eta 00:024
+Installing collected packages: pkg-26 (version 1.26.0)
+[32m[pip][0m Downloading dependency pkg-27-1.27.0-py3-none-any.whl (3240 kB)
+  [33m[=========================>            ][0m 54% eta 00:023
+Installing collected packages: pkg-27 (version 1.27.0)
+[32m[pip][0m Downloading dependency pkg-28-1.28.0-py3-none-any.whl (3360 kB)
+  [33m[=========================>            ][0m 56% eta 00:022
+Installing collected packages: pkg-28 (version 1.28.0)
+[32m[pip][0m Downloading dependency pkg-29-1.29.0-py3-none-any.whl (3480 kB)
+  [33m[=========================>            ][0m 58% eta 00:021
+Installing collected packages: pkg-29 (version 1.29.0)
+[32m[pip][0m Downloading dependency pkg-30-1.30.0-py3-none-any.whl (3600 kB)
+  [33m[=========================>            ][0m 60% eta 00:020
+Installing collected packages: pkg-30 (version 1.30.0)
+[32m[pip][0m Downloading dependency pkg-31-1.31.0-py3-none-any.whl (3720 kB)
+  [33m[=========================>            ][0m 62% eta 00:019
+Installing collected packages: pkg-31 (version 1.31.0)
+[32m[pip][0m Downloading dependency pkg-32-1.32.0-py3-none-any.whl (3840 kB)
+  [33m[=========================>            ][0m 64% eta 00:018
+Installing collected packages: pkg-32 (version 1.32.0)
+[32m[pip][0m Downloading dependency pkg-33-1.33.0-py3-none-any.whl (3960 kB)
+  [33m[=========================>            ][0m 66% eta 00:017
+Installing collected packages: pkg-33 (version 1.33.0)
+[32m[pip][0m Downloading dependency pkg-34-1.34.0-py3-none-any.whl (4080 kB)
+  [33m[=========================>            ][0m 68% eta 00:016
+Installing collected packages: pkg-34 (version 1.34.0)
+[32m[pip][0m Downloading dependency pkg-35-1.35.0-py3-none-any.whl (4200 kB)
+  [33m[=========================>            ][0m 70% eta 00:015
+Installing collected packages: pkg-35 (version 1.35.0)
+[32m[pip][0m Downloading dependency pkg-36-1.36.0-py3-none-any.whl (4320 kB)
+  [33m[=========================>            ][0m 72% eta 00:014
+Installing collected packages: pkg-36 (version 1.36.0)
+[32m[pip][0m Downloading dependency pkg-37-1.37.0-py3-none-any.whl (4440 kB)
+  [33m[=========================>            ][0m 74% eta 00:013
+Installing collected packages: pkg-37 (version 1.37.0)
+[32m[pip][0m Downloading dependency pkg-38-1.38.0-py3-none-any.whl (4560 kB)
+  [33m[=========================>            ][0m 76% eta 00:012
+Installing collected packages: pkg-38 (version 1.38.0)
+[32m[pip][0m Downloading dependency pkg-39-1.39.0-py3-none-any.whl (4680 kB)
+  [33m[=========================>            ][0m 78% eta 00:011
+Installing collected packages: pkg-39 (version 1.39.0)
+[32m[pip][0m Downloading dependency pkg-40-1.40.0-py3-none-any.whl (4800 kB)
+  [33m[=========================>            ][0m 80% eta 00:010
+Installing collected packages: pkg-40 (version 1.40.0)
+[32m[pip][0m Downloading dependency pkg-41-1.41.0-py3-none-any.whl (4920 kB)
+  [33m[=========================>            ][0m 82% eta 00:09
+Installing collected packages: pkg-41 (version 1.41.0)
+[32m[pip][0m Downloading dependency pkg-42-1.42.0-py3-none-any.whl (5040 kB)
+  [33m[=========================>            ][0m 84% eta 00:08
+Installing collected packages: pkg-42 (version 1.42.0)
+[32m[pip][0m Downloading dependency pkg-43-1.43.0-py3-none-any.whl (5160 kB)
+  [33m[=========================>            ][0m 86% eta 00:07
+Installing collected packages: pkg-43 (version 1.43.0)
+[32m[pip][0m Downloading dependency pkg-44-1.44.0-py3-none-any.whl (5280 kB)
+  [33m[=========================>            ][0m 88% eta 00:06
+Installing collected packages: pkg-44 (version 1.44.0)
+[INFO] Dependencies successfully installed. Total 44 packages verified.
+[INFO] Running database migrations...
+Applying core.0001_auto_migration... OK
+Applying core.0002_auto_migration... OK
+Applying core.0003_auto_migration... OK
+Applying core.0004_auto_migration... OK
+Applying core.0005_auto_migration... OK
+Applying core.0006_auto_migration... OK
+Applying core.0007_auto_migration... OK
+Applying core.0008_auto_migration... OK
+Applying core.0009_auto_migration... OK
+Applying core.00010_auto_migration... OK
+Applying core.00011_auto_migration... OK
+Applying core.00012_auto_migration... OK
+Applying core.00013_auto_migration... OK
+Applying core.00014_auto_migration... OK
+Applying core.00015_auto_migration... OK
+Applying core.00016_auto_migration... OK
+Applying core.00017_auto_migration... OK
+Applying core.00018_auto_migration... OK
+Applying core.00019_auto_migration... OK
+[1m[36m============================= test session starts ==============================[0m
+platform linux -- Python 3.11.5, pytest-8.1.1, pluggy-1.4.0
+rootdir: /home/runner/work/ecommerce-api/ecommerce-api
+collected 18 items
+
+tests/test_cart.py::test_cart_item_1 [32mPASSED[0m [ 5%]
+tests/test_cart.py::test_cart_item_2 [32mPASSED[0m [ 11%]
+tests/test_cart.py::test_cart_item_3 [32mPASSED[0m [ 16%]
+tests/test_cart.py::test_cart_item_4 [32mPASSED[0m [ 22%]
+tests/test_cart.py::test_cart_item_5 [32mPASSED[0m [ 27%]
+tests/test_cart.py::test_cart_item_6 [32mPASSED[0m [ 33%]
+tests/test_cart.py::test_cart_item_7 [32mPASSED[0m [ 38%]
+tests/test_cart.py::test_cart_item_8 [32mPASSED[0m [ 44%]
+tests/test_cart.py::test_cart_item_9 [32mPASSED[0m [ 50%]
+tests/test_cart.py::test_cart_item_10 [32mPASSED[0m [ 55%]
+tests/test_cart.py::test_cart_item_11 [32mPASSED[0m [ 61%]
+tests/test_cart.py::test_cart_item_12 [32mPASSED[0m [ 66%]
+tests/test_cart.py::test_cart_item_13 [32mPASSED[0m [ 72%]
+tests/test_cart.py::test_cart_item_14 [32mPASSED[0m [ 77%]
+tests/test_payment.py::test_process_stripe_checkout [31mFAILED[0m [ 83%]
+tests/test_payment.py::test_refund_transaction [32mPASSED[0m [ 88%]
+tests/test_user.py::test_user_profile [32mPASSED[0m [ 94%]
+tests/test_user.py::test_user_auth [32mPASSED[0m [100%]
+
+[31m[1m=================================== FAILURES ===================================[0m
+[31m[1m________________________ test_process_stripe_checkout _________________________[0m
+payment_gateway = <src.payment_gateway.StripeGateway object at 0x7f9a8820f850>
+order_payload = {'amount': 4999, 'currency': 'usd', 'customer_id': 'cust_99812'}
+
+    def test_process_stripe_checkout():
+        gateway = StripeGateway(api_key='sk_test_mock_token')
+>       result = gateway.charge(amount=4999, currency='usd', customer_id='cust_99812')
+
+tests/test_payment.py:42: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+src/payment_gateway.py:94: in charge
+    return {'status': 'success', 'charge_id': response['stripe_charge_id']}
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+response = {'id': 'ch_3Mv67aLkdIwHu7ix0rW7q', 'status': 'succeeded', 'tx_id': 'ch_3Mv67a'}
+
+[31m[1mE   KeyError: 'stripe_charge_id'[0m
+[31m[1mE   Note: The mock Stripe API response uses 'id' or 'tx_id', but source accessed 'stripe_charge_id'.[0m
+
+src/payment_gateway.py:94: KeyError
+[31m[1m=========================== short test summary info ============================[0m
+FAILED tests/test_payment.py::test_process_stripe_checkout - KeyError: 'stripe_charge_id'
+[31m========================= 1 failed, 17 passed in 4.12s =========================[0m
+[DEBUG] Cleaning up temporary test fixture_1 on /tmp/pytest-cache-1
+[DEBUG] Cleaning up temporary test fixture_2 on /tmp/pytest-cache-2
+[DEBUG] Cleaning up temporary test fixture_3 on /tmp/pytest-cache-3
+[DEBUG] Cleaning up temporary test fixture_4 on /tmp/pytest-cache-4
+[DEBUG] Cleaning up temporary test fixture_5 on /tmp/pytest-cache-5
+[DEBUG] Cleaning up temporary test fixture_6 on /tmp/pytest-cache-6
+[DEBUG] Cleaning up temporary test fixture_7 on /tmp/pytest-cache-7
+[DEBUG] Cleaning up temporary test fixture_8 on /tmp/pytest-cache-8
+[DEBUG] Cleaning up temporary test fixture_9 on /tmp/pytest-cache-9
+[DEBUG] Cleaning up temporary test fixture_10 on /tmp/pytest-cache-10
+[DEBUG] Cleaning up temporary test fixture_11 on /tmp/pytest-cache-11
+[DEBUG] Cleaning up temporary test fixture_12 on /tmp/pytest-cache-12
+[DEBUG] Cleaning up temporary test fixture_13 on /tmp/pytest-cache-13
+[DEBUG] Cleaning up temporary test fixture_14 on /tmp/pytest-cache-14
+[DEBUG] Cleaning up temporary test fixture_15 on /tmp/pytest-cache-15
+[DEBUG] Cleaning up temporary test fixture_16 on /tmp/pytest-cache-16
+[DEBUG] Cleaning up temporary test fixture_17 on /tmp/pytest-cache-17
+[DEBUG] Cleaning up temporary test fixture_18 on /tmp/pytest-cache-18
+[DEBUG] Cleaning up temporary test fixture_19 on /tmp/pytest-cache-19
+##[error]Process completed with exit code 1.

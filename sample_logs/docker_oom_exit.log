@@ -1,0 +1,57 @@
+Step 1/12 : FROM rust:1.75-slim AS builder
+ ---> Pulling layer sha256:d84e00ea [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e01d4 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e02be [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e03a8 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0492 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e057c [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0666 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0750 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e083a [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0924 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0a0e [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0af8 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0be2 [====================] 14.8MB/14.8MB
+ ---> Pulling layer sha256:d84e0ccc [====================] 14.8MB/14.8MB
+Step 5/12 : COPY Cargo.toml Cargo.lock ./
+Step 6/12 : RUN cargo build --release
+   Compiling crate-dep-v1 v0.1.2
+   Compiling crate-dep-v2 v0.2.2
+   Compiling crate-dep-v3 v0.3.2
+   Compiling crate-dep-v4 v0.4.2
+   Compiling crate-dep-v5 v0.5.2
+   Compiling crate-dep-v6 v0.6.2
+   Compiling crate-dep-v7 v0.7.2
+   Compiling crate-dep-v8 v0.8.2
+   Compiling crate-dep-v9 v0.9.2
+   Compiling crate-dep-v10 v0.10.2
+   Compiling crate-dep-v11 v0.11.2
+   Compiling crate-dep-v12 v0.12.2
+   Compiling crate-dep-v13 v0.13.2
+   Compiling crate-dep-v14 v0.14.2
+   Compiling crate-dep-v15 v0.15.2
+   Compiling crate-dep-v16 v0.16.2
+   Compiling crate-dep-v17 v0.17.2
+   Compiling crate-dep-v18 v0.18.2
+   Compiling crate-dep-v19 v0.19.2
+   Compiling crate-dep-v20 v0.20.2
+   Compiling crate-dep-v21 v0.21.2
+   Compiling crate-dep-v22 v0.22.2
+   Compiling crate-dep-v23 v0.23.2
+   Compiling crate-dep-v24 v0.24.2
+   Compiling crate-dep-v25 v0.25.2
+   Compiling crate-dep-v26 v0.26.2
+   Compiling crate-dep-v27 v0.27.2
+   Compiling crate-dep-v28 v0.28.2
+   Compiling crate-dep-v29 v0.29.2
+   Compiling crate-dep-v30 v0.30.2
+   Compiling crate-dep-v31 v0.31.2
+   Compiling crate-dep-v32 v0.32.2
+   Compiling crate-dep-v33 v0.33.2
+   Compiling crate-dep-v34 v0.34.2
+   Compiling heavy-graph-engine v2.1.0 (/usr/src/app)
+kernel: [ 3491.291044] Out of memory: Killed process 8421 (rustc) total-vm:14820120kB, anon-rss:7894210kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:18440kB oom_score_adj:0
+[31merror: could not compile `heavy-graph-engine` (bin "heavy-graph-engine") due to signal: 9, SIGKILL: kill[0m
+[31mThe command '/bin/sh -c cargo build --release' returned a non-zero code: 137[0m
+Container runtime fatal: Process killed by cgroup OOM-killer (Out of memory: memory limit 8192MB exceeded)
+##[error]Process completed with exit code 137.

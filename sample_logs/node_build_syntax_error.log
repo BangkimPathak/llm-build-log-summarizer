@@ -1,0 +1,123 @@
+[INFO] Running GitHub Action step: Build Webpack Client Assets
+Node version: v18.19.0, npm version: 9.2.0
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-1 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-1: timing reifyNode:node_modules/@core/ui-kit-1
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-2 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-2: timing reifyNode:node_modules/@core/ui-kit-2
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-3 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-3: timing reifyNode:node_modules/@core/ui-kit-3
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-4 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-4: timing reifyNode:node_modules/@core/ui-kit-4
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-5 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-5: timing reifyNode:node_modules/@core/ui-kit-5
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-6 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-6: timing reifyNode:node_modules/@core/ui-kit-6
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-7 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-7: timing reifyNode:node_modules/@core/ui-kit-7
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-8 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-8: timing reifyNode:node_modules/@core/ui-kit-8
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-9 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-9: timing reifyNode:node_modules/@core/ui-kit-9
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-10 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-10: timing reifyNode:node_modules/@core/ui-kit-10
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-11 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-11: timing reifyNode:node_modules/@core/ui-kit-11
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-12 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-12: timing reifyNode:node_modules/@core/ui-kit-12
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-13 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-13: timing reifyNode:node_modules/@core/ui-kit-13
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-14 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-14: timing reifyNode:node_modules/@core/ui-kit-14
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-15 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-15: timing reifyNode:node_modules/@core/ui-kit-15
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-16 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-16: timing reifyNode:node_modules/@core/ui-kit-16
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-17 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-17: timing reifyNode:node_modules/@core/ui-kit-17
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-18 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-18: timing reifyNode:node_modules/@core/ui-kit-18
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-19 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-19: timing reifyNode:node_modules/@core/ui-kit-19
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-20 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-20: timing reifyNode:node_modules/@core/ui-kit-20
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-21 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-21: timing reifyNode:node_modules/@core/ui-kit-21
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-22 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-22: timing reifyNode:node_modules/@core/ui-kit-22
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-23 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-23: timing reifyNode:node_modules/@core/ui-kit-23
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-24 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-24: timing reifyNode:node_modules/@core/ui-kit-24
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-25 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-25: timing reifyNode:node_modules/@core/ui-kit-25
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-26 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-26: timing reifyNode:node_modules/@core/ui-kit-26
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-27 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-27: timing reifyNode:node_modules/@core/ui-kit-27
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-28 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-28: timing reifyNode:node_modules/@core/ui-kit-28
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-29 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-29: timing reifyNode:node_modules/@core/ui-kit-29
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-30 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-30: timing reifyNode:node_modules/@core/ui-kit-30
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-31 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-31: timing reifyNode:node_modules/@core/ui-kit-31
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-32 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-32: timing reifyNode:node_modules/@core/ui-kit-32
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-33 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-33: timing reifyNode:node_modules/@core/ui-kit-33
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-34 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-34: timing reifyNode:node_modules/@core/ui-kit-34
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-35 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-35: timing reifyNode:node_modules/@core/ui-kit-35
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-36 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-36: timing reifyNode:node_modules/@core/ui-kit-36
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-37 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-37: timing reifyNode:node_modules/@core/ui-kit-37
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-38 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-38: timing reifyNode:node_modules/@core/ui-kit-38
+npm http fetch GET 200 https://registry.npmjs.org/@core/ui-kit-39 142ms (from cache)
+  [2K[1G⠋ reify:@core/ui-kit-39: timing reifyNode:node_modules/@core/ui-kit-39
+added 842 packages in 14.3s
+> client-portal@2.4.0 build
+> webpack --mode production --config webpack.prod.js
+[webpack] Compiling chunk 1/35: asset-bundle-1.js (optimized)
+[webpack] Compiling chunk 2/35: asset-bundle-2.js (optimized)
+[webpack] Compiling chunk 3/35: asset-bundle-3.js (optimized)
+[webpack] Compiling chunk 4/35: asset-bundle-4.js (optimized)
+[webpack] Compiling chunk 5/35: asset-bundle-5.js (optimized)
+[webpack] Compiling chunk 6/35: asset-bundle-6.js (optimized)
+[webpack] Compiling chunk 7/35: asset-bundle-7.js (optimized)
+[webpack] Compiling chunk 8/35: asset-bundle-8.js (optimized)
+[webpack] Compiling chunk 9/35: asset-bundle-9.js (optimized)
+[webpack] Compiling chunk 10/35: asset-bundle-10.js (optimized)
+[webpack] Compiling chunk 11/35: asset-bundle-11.js (optimized)
+[webpack] Compiling chunk 12/35: asset-bundle-12.js (optimized)
+[webpack] Compiling chunk 13/35: asset-bundle-13.js (optimized)
+[webpack] Compiling chunk 14/35: asset-bundle-14.js (optimized)
+[webpack] Compiling chunk 15/35: asset-bundle-15.js (optimized)
+[webpack] Compiling chunk 16/35: asset-bundle-16.js (optimized)
+[webpack] Compiling chunk 17/35: asset-bundle-17.js (optimized)
+[webpack] Compiling chunk 18/35: asset-bundle-18.js (optimized)
+[webpack] Compiling chunk 19/35: asset-bundle-19.js (optimized)
+[webpack] Compiling chunk 20/35: asset-bundle-20.js (optimized)
+[webpack] Compiling chunk 21/35: asset-bundle-21.js (optimized)
+[webpack] Compiling chunk 22/35: asset-bundle-22.js (optimized)
+[webpack] Compiling chunk 23/35: asset-bundle-23.js (optimized)
+[webpack] Compiling chunk 24/35: asset-bundle-24.js (optimized)
+[31mERROR in ./src/components/CheckoutModal.tsx:42:15[0m
+TS1005: ',' expected.
+  40 |   const handleConfirm = (token: string) => {
+  41 |     if (!token) return;
+[31m> 42 |     dispatch({ type: 'CHECKOUT_SUCCESS' payload: token });[0m
+     |                                         ^
+  43 |     onClose();
+  44 |   };
+[31mSyntaxError: Unexpected token, expected "," (42:40)[0m
+    at Parser.raise (/home/runner/work/app/node_modules/@babel/parser/lib/index.js:522:17)
+    at Parser.unexpected (/home/runner/work/app/node_modules/@babel/parser/lib/index.js:9642:16)
+    at Parser.parseExprSubscripts (/home/runner/work/app/node_modules/@babel/parser/lib/index.js:10620:17)
+webpack 5.89.0 compiled with 1 error and 0 warnings in 3820 ms
+npm ERR! Lifecycle script `build` failed with error:
+npm ERR! Error: command failed with exit code 2
+##[error]Process completed with exit code 2.
